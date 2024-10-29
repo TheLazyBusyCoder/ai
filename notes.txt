@@ -1,0 +1,39 @@
+Now the traning process which I am following is taking a lot of time , so rather then this can i do the following? 
+
+create a file input.json in which data will be like this: 
+
+[
+  {
+    "answer": "A",
+    "array": [
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 1, 1, 1, 0, 0, 0, 0],
+      [0, 0, 0, 1, 0, 1, 1, 0, 0, 0],
+      [0, 0, 0, 1, 0, 0, 1, 0, 0, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0, 0, 0],
+      [0, 0, 0, 1, 0, 0, 1, 0, 0, 0],
+      [0, 0, 0, 1, 0, 0, 1, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    ]
+  },
+  {
+    "answer": "A",
+    "array": [
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0, 0, 0],
+      [0, 0, 0, 1, 0, 0, 1, 0, 0, 0],
+      [0, 0, 0, 1, 0, 0, 1, 0, 0, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0, 0, 0],
+      [0, 0, 0, 1, 0, 0, 1, 0, 0, 0],
+      [0, 0, 0, 1, 0, 0, 1, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    ]
+  }
+]
+
+the model will loop to this array and will read the "array" data from the map, then it will predict by its own what will be the output. then it will check if the model output matchect the "answer" key , and based on this the model will improve it self
+
