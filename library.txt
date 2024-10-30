@@ -1,0 +1,1 @@
+pip install numpy pandas scikit-learn tensorflow torch keras matplotlib seaborn nltk spacy opencv-python beautifulsoup4 scrapy xgboost lightgbm statsmodels
