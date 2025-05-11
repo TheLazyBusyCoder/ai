@@ -1,0 +1,68 @@
+
+- NumPy, Pandas, Matplotlib
+  freeCodeCamp 4-Hour Data Science Tutorial
+  W3Schools NumPy Tutorial
+
+- Learn Machine Learning (ML) with Scikit-Learn
+  Linear Regression
+  KNN
+  Decision Trees
+  SVM
+  Clustering
+
+  Free: 
+    Google's Machine Learning Crash Course
+    Kaggle Micro-Courses
+    Scikit-learn User Guide
+
+- Learn Deep Learning (Neural Networks) with PyTorch
+  Fast.ai Deep Learning Course (Highly recommended)
+  PyTorch Official Tutorials
+  freeCodeCamp Deep Learning (YouTube)
+
+Projects reinforce learning:
+  Image classifier (e.g., dogs vs cats)
+  Audio classification
+  Chatbot using RNNs
+  Stock price prediction
+
+/////////////////////////////
+/// BASIC TO TONY STARK
+
+# Python + Math Foundations (Day 1–15)
+| Day   | Topic                         | Resources                       |
+| ----- | ----------------------------- | ------------------------------- |
+| 1-3   | Python Basics                 | W3Schools, freeCodeCamp YouTube | X
+| 4-6   | Lists, Loops, Functions, OOP  | Python.org, W3Schools           | X
+| 7-9   | NumPy + Pandas                | W3Schools, Kaggle               | X
+| 10-12 | Matplotlib + Seaborn          | freeCodeCamp, Kaggle            | X
+| 13-15 | Linear Algebra & Stats Basics | Khan Academy, 3Blue1Brown       | X
+
+# PHASE 2: Machine Learning (Day 16–35)
+| Day   | Topic                                                  | Resources              |
+| ----- | ------------------------------------------------------ | ---------------------- |
+| 16-17 | ML Concepts (bias, variance, overfitting)              | Google ML Crash Course |
+| 18-21 | Supervised Learning (Regression, Classification)       | Scikit-learn           |
+| 22-25 | Decision Trees, Random Forest, KNN                     | Scikit-learn           |
+| 26-28 | Clustering (KMeans), PCA                               | Scikit-learn           |
+| 29-31 | Model Evaluation (Precision, Recall, AUC)              | Scikit-learn Docs      |
+| 32-35 | Mini Project: Predict house prices or Titanic survival | Kaggle, Colab          |
+
+# Deep Learning (Day 36–60)
+| Day   | Topic                                           | Resources             |
+| ----- | ----------------------------------------------- | --------------------- |
+| 36-38 | Intro to Neural Networks                        | fast.ai, freeCodeCamp |
+| 39-42 | PyTorch Basics (tensors, autograd)              | pytorch.org           |
+| 43-47 | Feedforward Networks (MLP)                      | PyTorch Tutorial      |
+| 48-50 | CNNs (image classification)                     | PyTorch, fast.ai      |
+| 51-54 | RNNs, LSTMs (sequence data)                     | PyTorch               |
+| 55-60 | Mini Projects: Image classifier, simple chatbot | Colab or Jupyter      |
+
+# Projects + Real-World AI (Day 61–90)
+| Day   | Topic                                              | Resources            |
+| ----- | -------------------------------------------------- | -------------------- |
+| 61-65 | NLP: Text classification, sentiment analysis       | HuggingFace, PyTorch |
+| 66-70 | Audio Classification (like your project)           | torchaudio           |
+| 71-75 | Deploy ML model with Flask or Streamlit            | streamlit.io         |
+| 76-80 | Git + GitHub for AI Projects                       | GitHub Docs          |
+| 81-90 | Final Project: Build your Stark AI App (your idea) | End-to-End           |

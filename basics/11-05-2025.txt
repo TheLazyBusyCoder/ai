@@ -1,0 +1,37 @@
+Bias = changes during traning ( line intersecpts at y - axis )
+Feature = multiple x axis
+Label = x axis 
+Linear regression = linear model 
+Parameter = input
+Weight = updated during traning
+
+Loss = Loss measures the distance between the model's predictions and the actual labels.
+
+L1 loss	The sum of the absolute values of the difference between the predicted values and the actual values.
+Mean absolute error (MAE)	The average of L1 losses across a set of examples.
+L2 loss	The sum of the squared difference between the predicted values and the actual values.
+Mean squared error (MSE)	The average of L2 losses across a set of examples.
+
+Mean absolute error (MAE)
+Mean squared error (MSE)
+MSE. The model is closer to the outliers but further away from most of the other data points.
+MAE. The model is further away from the outliers but closer to most of the other data points.
+
+Bais = y axces the line goes up down. 
+Weight = the rotation of the line. 
+
+Gradient descent is an iterative process that finds the best weights and bias that minimize the loss.
+
+Hyperparameters are variables that control different aspects of training. Three common hyperparameters are:
+
+Learning rate
+Batch size
+Epochs
+In contrast, parameters are the variables, like the weights and bias, that are part of the model itself. In other words, hyperparameters are values that you control; parameters are values that the model calculates during training.
+
+Learning rate is a floating point number you set that influences how quickly the model converges. If the learning rate is too low, the model can take a long time to converge. However, if the learning rate is too high, the model never converges, but instead bounces around the weights and bias that minimize the loss. The goal is to pick a learning rate that's not too high nor too low so that the model converges quickly.
+
+Batch size is a hyperparameter that refers to the number of examples the model processes before updating its weights and bias. You might think that the model should calculate the loss for every example in the dataset before updating the weights and bias. However, when a dataset contains hundreds of thousands or even millions of examples, using the full batch isn't practical.
+
+Epochs: During training, an epoch means that the model has processed every example in the training set once. For example, given a training set with 1,000 examples and a mini-batch size of 100 examples, it will take the model 10 iterations to complete one epoch.
+
