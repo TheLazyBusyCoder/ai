@@ -41,7 +41,7 @@ Projects reinforce learning:
 # PHASE 2: Machine Learning (Day 16–35)
 | Day   | Topic                                                  | Resources              |
 | ----- | ------------------------------------------------------ | ---------------------- |
-| 16-17 | ML Concepts (bias, variance, overfitting)              | Google ML Crash Course |
+| 16-17 | ML Concepts (bias, variance, overfitting)              | Google ML Crash Course | DONE
 | 18-21 | Supervised Learning (Regression, Classification)       | Scikit-learn           |
 | 22-25 | Decision Trees, Random Forest, KNN                     | Scikit-learn           |
 | 26-28 | Clustering (KMeans), PCA                               | Scikit-learn           |
