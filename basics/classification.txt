@@ -1,0 +1,4 @@
+Thresholds: if 0.5 so x < 0.5 is 0 and x > 0.5 is 1
+
+The ROC curve is a visual representation of model performance across all thresholds. The long version of the name, receiver operating characteristic, is a holdover from WWII radar detection.
+

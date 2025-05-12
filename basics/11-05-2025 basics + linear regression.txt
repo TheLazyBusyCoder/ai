@@ -92,7 +92,6 @@ training_df.corr(numeric_only = True)
 
 # Define ML functions
 
-
 def build_model(my_learning_rate, num_features):
   """Create and compile a simple linear regression model."""
   # Describe the topography of the model.
